@@ -80,4 +80,4 @@ async def on_message(message):
     await bot.process_commands(message)
 
 # Start up the bot using your hidden token
-bot.run(os.environ['MTU2NzEyOTk3ODE3MTE3MDg3Nw.GUOLjt.iBJP-U5XagIJASKneoic7GFVw1eHl3Qe7vmiQU'])
+bot.run(os.environ['DISCORD_TOKEN'])
